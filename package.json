@@ -1,0 +1,15 @@
+{
+  "name": "contract-interaction",
+  "version": "1.0.0",
+  "description": "smart contract interaction",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Jeanmi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "ethers": "^6.4.1"
+  }
+}
